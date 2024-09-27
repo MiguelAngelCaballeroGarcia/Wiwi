@@ -4,6 +4,6 @@ public class Prueba1 {
 
         System.out.println("aaa");
 
-
+        System.out.println("bbb");
     }
 }
